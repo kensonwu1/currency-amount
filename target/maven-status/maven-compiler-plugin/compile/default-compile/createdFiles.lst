@@ -1,0 +1,11 @@
+fx\CurrencyAmountHandler.class
+fx\input\CliCurrencyAmountInput.class
+fx\App.class
+fx\input\FileCurrencyAmountInput.class
+fx\input\validation\CurrencyAmountInputValidation.class
+fx\CurrencyAmountScheduler.class
+fx\CurrencyAmountScheduler$1.class
+fx\exchanger\MockCurrencyExchanger.class
+fx\CurrencyAmountModel.class
+fx\input\validation\SimpleCurrencyAmountInputValidation.class
+fx\input\AbstractCurrencyAmountInput.class

@@ -1,0 +1,10 @@
+G:\ali\currency-amount\src\main\java\fx\App.java
+G:\ali\currency-amount\src\main\java\fx\input\FileCurrencyAmountInput.java
+G:\ali\currency-amount\src\main\java\fx\input\CliCurrencyAmountInput.java
+G:\ali\currency-amount\src\main\java\fx\CurrencyAmountHandler.java
+G:\ali\currency-amount\src\main\java\fx\exchanger\MockCurrencyExchanger.java
+G:\ali\currency-amount\src\main\java\fx\CurrencyAmountModel.java
+G:\ali\currency-amount\src\main\java\fx\input\validation\SimpleCurrencyAmountInputValidation.java
+G:\ali\currency-amount\src\main\java\fx\input\validation\CurrencyAmountInputValidation.java
+G:\ali\currency-amount\src\main\java\fx\CurrencyAmountScheduler.java
+G:\ali\currency-amount\src\main\java\fx\input\AbstractCurrencyAmountInput.java
